@@ -20,10 +20,10 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
-<v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
+<v t="amd.20150919103341.1" a="E"><vh>Jupyter 設定</vh>
 <v t="amd.20150919103923.1"><vh>設定檔案位置</vh></v>
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
@@ -43,6 +43,7 @@
 <v t="harry.20151109112321.1"><vh>@edit 40323251_cp_w5.md</vh></v>
 <v t="harry.20151109112329.1"><vh>@edit 40323251_cp_w6.md</vh></v>
 <v t="harry.20151109112248.1"><vh>@edit 40323251_cp_w7.md</vh></v>
+<v t="123.20160104000528.1"><vh>@edit 40323251_cp_w8.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
